@@ -1,0 +1,6 @@
+{
+  "name": "Rinjani Explorer",
+  "description": "An interactive, glassmorphic guide and booking planner for climbing Mount Rinjani, featuring interactive climbing maps, equipment calculators, calendar schedules, and essential checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
